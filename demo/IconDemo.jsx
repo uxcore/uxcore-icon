@@ -188,6 +188,7 @@ const icons = [
   'zhongyaoshijian',
   'drag',
   'more-dot',
+  'menu',
 ];
 class Demo extends React.Component {
   constructor(props) {
