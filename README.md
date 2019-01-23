@@ -58,21 +58,20 @@ npm run test
 npm run coverage
 ```
 
-## Demo
+## Usage
 
-http://uxcore.github.io/components/icon
-
-## Contribute
-
-Yes please! See the [CONTRIBUTING](https://github.com/uxcore/uxcore/blob/master/CONTRIBUTING.md) for details.
-
-## API
+`<Icon usei name="menu" />`
 
 ## Props
 
 | Name | Type | Required | Default | Comments |
 |---|---|---|---|---|
+|usei|bool|no|false| 使用 `<i>` 标签渲染 ICON，建议开启 |
 |name|string|no|shezhi| 图标名字 |
 |className|string|no| | 额外类名 |
 
 其他 props 将透传给 icon 元素
+
+## Contribute
+
+Yes please! See the [CONTRIBUTING](https://github.com/uxcore/uxcore/blob/master/CONTRIBUTING.md) for details.
