@@ -1,5 +1,8 @@
 # history
 
+## 0.1.28 / 2019-01-23
+* `CHANGED` add 3 new icon chouti, youxuanzhuan, zuoxuanzhuan
+
 ## 0.1.27 / 2019-01-23
 * `CHANGED` add 1 new icon menu
 

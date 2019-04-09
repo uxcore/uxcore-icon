@@ -189,6 +189,9 @@ const icons = [
   'drag',
   'more-dot',
   'menu',
+  'chouti',
+  'youxuanzhuan',
+  'zuoxuanzhuan'
 ];
 class Demo extends React.Component {
   constructor(props) {
