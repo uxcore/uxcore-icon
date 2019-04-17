@@ -1,6 +1,8 @@
 # history
+## 0.1.28 / 2019-04-17
+* `CHANGED` add 3 new icon minus, zengjia1, zhedie
 
-## 0.1.28 / 2019-01-23
+## 0.1.28 / 2019-04-09
 * `CHANGED` add 3 new icon chouti, youxuanzhuan, zuoxuanzhuan
 
 ## 0.1.27 / 2019-01-23

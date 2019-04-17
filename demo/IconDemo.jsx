@@ -127,6 +127,7 @@ const icons = [
   'aite',
   'huxiangguanzhu',
   'zengjia1',
+  'minus',
   'duigou',
   'zidingyilie',
   'suoxiao',
@@ -191,7 +192,9 @@ const icons = [
   'menu',
   'chouti',
   'youxuanzhuan',
-  'zuoxuanzhuan'
+  'zuoxuanzhuan',
+  'zhankai1',
+  "zhedie"
 ];
 class Demo extends React.Component {
   constructor(props) {
